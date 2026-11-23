@@ -1,0 +1,15 @@
+{
+  "source_landcover_resolution_m": 2,
+  "display_web_mercator_pixel_m": 2.6,
+  "categorical_resampling": "nearest neighbor",
+  "hillshade_resampling": "bilinear",
+  "hillshade_display_stretch": [
+    0.3187324166297913,
+    0.9414140701293947
+  ],
+  "display_dimensions": [
+    3434,
+    4019
+  ],
+  "watershed_features": 76
+}
