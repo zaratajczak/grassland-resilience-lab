@@ -1,0 +1,24 @@
+---
+title: "Opportunities"
+page-id: opportunities
+page-class: page standard-page
+---
+
+<div>
+
+# Opportunities
+
+{{< include includes/bison-ms-opportunity.html >}}
+
+
+## Undergraduate research
+
+Inquiries about undergraduate research positions are welcome. If you're interested in fieldwork at Konza, working with ecological data, or developing an independent study, email Zak Ratajczak. Tell me a little about yourself and what you'd like to try. You don't need previous research experience to get in touch.
+
+## Graduate students
+
+I welcome inquiries from prospective graduate students.
+
+[Back to top](opportunities.html)
+
+</div>

@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>$title$ | Grassland Resilience Lab</title><meta name="description" content="Grassland ecology, conservation, and resilience at the Grassland Resilience Lab."><link rel="stylesheet" href="styles.css">$for(header-includes)$$header-includes$$endfor$$if(map-page)$<link rel="stylesheet" href="map/vendor/leaflet.css"><link rel="stylesheet" href="map/map.css">$endif$</head>
+<body><a class="skip-link" href="#main-content">Skip to content</a>
+$for(include-before)$$include-before$$endfor$
+<main id="main-content"><div id="$page-id$" class="$page-class$">
+$body$
+</div></main>
+$for(include-after)$$include-after$$endfor$
+<script src="gallery.js"></script>$if(map-page)$<script src="map/vendor/leaflet.js"></script><script src="map/data.js"></script><script src="map/map.js"></script>$endif$</body></html>

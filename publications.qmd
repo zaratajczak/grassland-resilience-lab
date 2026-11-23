@@ -1,0 +1,229 @@
+---
+title: "Publications"
+page-id: publications
+page-class: page standard-page
+---
+
+<div>
+
+# Publications
+
+<sup>*</sup> Graduate or undergraduate student advised in Zak Ratajczak’s lab. <sup>**</sup> Graduate student mentored through committee service or a similar role, rather than as a direct advisee.
+
+[View Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ryNzl6QAAAAJ){.learn}
+
+## In press
+
+-   <strong>Yunpeng Zhao, Scott L. Collins, Zak Ratajczak, Guozhen Du, <sup>**</sup>Ning Chen, Wei Qi, Hang An, Shuaiwei Luo, and Miaojun Ma</strong> · Abrupt change in alpine grasslands linked to precipitation. Ecology.
+
+## 2026
+
+-   <strong><sup>**</sup>Ning Chen, Xiaoxue Dong, Xinwei Li, Lei Huang, Heng Huang, Changjia Li, Yanchuang Zhao, Chi Xu, Miaojun Ma, Zak Ratajczak, and Changming Zhao</strong> · Inferring alternative ecosystem states with field survey data. Methods in Ecology and Evolution. [DOI](https://doi.org/10.1111/2041-210X.70343)
+
+<!-- -->
+
+-   <strong><sup>*</sup>Kalea R. Nippert-Churchman, Zak Ratajczak, and <sup>*</sup>Abigail C. Schmidt</strong> · High-intensity fire and long-term destocking causes top kill but fails to reverse encroachment and restore biodiversity. Ecological Applications. [DOI](https://doi.org/10.1002/eap.70341)
+
+<!-- -->
+
+-   <strong>Jesse B Nippert, Marissa A Ahlering, Samuel D Fuhlendorf, Chris J Helzer, Nic A McMillan, and Zak Ratajczak</strong> · Rethinking grassland management in the Great Plains during the era of woody plant encroachment. BioScience. [DOI](https://doi.org/10.1093/biosci/biag033)
+
+<!-- -->
+
+-   <strong><sup>*</sup>Sidney Noble, and Zak Ratajczak</strong> · Effects of Grazer Identity (Bison Versus Cattle) and Woody Encroachment in Mixed Grass Prairies in Adjacent National Parks and National Grasslands. Natural Areas Journal. [DOI](https://doi.org/10.3375/2162-4399-46.1.2)
+
+<!-- -->
+
+-   <strong>Andrew G. Hope, Sam C. Speck, and Zak Ratajczak</strong> · Leveraging Long-Term Ecological Research Initiatives Into the One Health Synthesis. Ecology and Evolution. [DOI](https://doi.org/10.1002/ece3.72982)
+
+## 2025
+
+-   <strong><sup>*</sup>Sidney Noble, and Zak Ratajczak</strong> · Restoring Frequent Fire Results in Habitat Improvement for Bison but Minimal Early Reduction of Woody Encroachment. Ecological Restoration. [DOI](https://doi.org/10.3368/er.43.4.288)
+
+<!-- -->
+
+-   <strong>Kimberly J. Komatsu, Meghan L. Avolio, John Blair, Sally E. Koerner, Zak Ratajczak, Melinda D. Smith, Ellen Welti, Kevin R. Wilcox, and Lydia H. Zeglin</strong> · Consistent timelines, divergent end points: plant community change in multiple tallgrass nitrogen addition experiments. Oecologia. [DOI](https://doi.org/10.1007/s00442-025-05819-9)
+
+<!-- -->
+
+-   <strong><sup>*</sup>Sidney Noble, Zak Ratajczak, and <sup>*</sup>Brynn Noble</strong> · Native megafauna (Bison bison) act as a surprising inhibitor of cedar tree expansion in a Great Plains grassland. Ecological Applications. [DOI](https://doi.org/10.1002/eap.70108)
+
+<!-- -->
+
+-   <strong><sup>*</sup>Brynn Noble, and Zak Ratajczak</strong> · Combining Open-Source Machine Learning and Publicly Available Aerial Data (NAIP and NEON) to Achieve High-Resolution High-Accuracy Remote Sensing of Grass--Shrub--Tree Mosaics. Remote Sensing 17(13): 2224. [DOI](https://doi.org/10.3390/rs17132224)
+
+<!-- -->
+
+-   <strong><sup>*</sup>Bess Bookout, <sup>**</sup>Sarah Herzog, and Zak Ratajczak</strong> · Resilience and multi-faceted diversity of grazed and ungrazed Great Plains grassland plant communities to severe drought. Biological Conservation. [DOI](https://doi.org/10.1016/j.biocon.2025.111088)
+
+<!-- -->
+
+-   <strong><sup>**</sup>Emily R. Wedel, Zak Ratajczak, <sup>**</sup>E. Greg Tooley, and Jesse B. Nippert</strong> · Divergent resource-use strategies of encroaching shrubs: Can traits predict encroachment success in tallgrass prairie? Journal of Ecology. [DOI](https://doi.org/10.1111/1365-2745.14456)
+
+## 2024
+
+-   <strong>Dominik Thom, Werner Rammer, <sup>**</sup>Katharina Albrich, Kristin H. Braziunas, Laura Dobor, Christina Dollinger, Winslow D. Hansen, Brian J. Harvey, Tomáš Hlásny, Tyler J. Hoecker, Juha Honkaniemi, William S. Keeton, Yuta Kobayashi, Sofia Saenz Kruszka, Akira Mori, Jenna E. Morris, Stephen Peters-Collaer, Zak Ratajczak, Trond Simensen, Ilié Storms, Kureha F. Suzuki, Anthony R. Taylor, Monica G. Turner, Susan Willis, and Rupert Seidl</strong> · Parameters of 150 temperate and boreal tree species and provenances for an individual-based forest landscape and disturbance model. Data in Brief. [DOI](https://doi.org/10.1016/j.dib.2024.110662)
+
+<!-- -->
+
+-   <strong>Alex O. Sutton, Zak Ratajczak, and Allison M. Louthan</strong> · High among-species variability in the context dependence of herbivory across disturbance, weather and topoedaphic gradients. Journal of Ecology. [DOI](https://doi.org/10.1111/1365-2745.14390)
+
+<!-- -->
+
+-   <strong><sup>**</sup>E. Greg Tooley, Jesse B. Nippert, and Zak Ratajczak</strong> · Evaluating methods for measuring the leaf area index of encroaching shrubs in grasslands: From leaves to optical methods, 3-D scanning, and airborne observation. Agricultural and Forest Meteorology. [DOI](https://doi.org/10.1016/j.agrformet.2024.109964)
+
+<!-- -->
+
+-   <strong><sup>**</sup>Katy M. Silber, Trevor J. Hefley, Henry N. Castro-Miller, Zak Ratajczak, and W. Alice Boyle</strong> · The long shadow of woody encroachment: An integrated approach to modeling grassland songbird habitat. Ecological Applications. [DOI](https://doi.org/10.1002/eap.2954)
+
+## 2023
+
+-   <strong>Tanjona Ramiadantsoa, Zak Ratajczak, and Monica G. Turner</strong> · Regeneration strategies and forest resilience to changing fire regimes: Insights from a Goldilocks model. Ecology. [DOI](https://doi.org/10.1002/ecy.4041)
+
+<!-- -->
+
+-   <strong>Walter K. Dodds, Zak Ratajczak, <sup>**</sup>Rachel M. Keen, Jesse B. Nippert, Bartosz Grudzinski, Allison Veach, Jeffery H. Taylor, and Amanda Kuhl</strong> · Trajectories and state changes of a grassland stream and riparian zone after a decade of woody vegetation removal. Ecological Applications. [DOI](https://doi.org/10.1002/eap.2830)
+
+<!-- -->
+
+-   <strong><sup>**</sup>Rachel M. Keen, Jesse B. Nippert, Pamela L. Sullivan, Zak Ratajczak, <sup>*</sup>Brynn Ritchey, Kimberly O’Keefe, and Walter K. Dodds</strong> · Impacts of Riparian and Non-riparian Woody Encroachment on Tallgrass Prairie Ecohydrology. Ecosystems. [DOI](https://doi.org/10.1007/s10021-022-00756-7)
+
+<!-- -->
+
+-   <strong><sup>*</sup>Brynn Noble, and Zak Ratajczak</strong> · Bison (Bison bison) dung decays slowly but can still be used to track short- and long-term habitat usage. Transactions of the Kansas Academy of Science. [DOI](https://doi.org/10.1660/062.126.0114)
+
+## 2022
+
+-   <strong>Zak Ratajczak, Scott L. Collins, John M. Blair, Sally E. Koerner, Allison M. Louthan, Melinda D. Smith, Jeffrey H. Taylor, and Jesse B. Nippert</strong> · Reintroducing bison results in long-running and resilient increases in grassland diversity. Proceedings of the National Academy of Sciences. [DOI](https://doi.org/10.1073/pnas.2210433119)
+
+<!-- -->
+
+-   <strong>Monica G. Turner, Kristin H. Braziunas, Winslow D. Hansen, Tyler J. Hoecker, Werner Rammer, Zak Ratajczak, A. Leroy Westerling, and Rupert Seidl</strong> · The magnitude, direction, and tempo of forest change in Greater Yellowstone in a warmer world with more fire. Ecological Monographs. [DOI](https://doi.org/10.1002/ecm.1485)
+
+## 2021
+
+-   <strong>Werner Rammer, Kristin H. Braziunas, Winslow D. Hansen, Zak Ratajczak, Anthony L. Westerling, Monica G. Turner, and Rupert Seidl</strong> · Widespread regeneration failure in forests of Greater Yellowstone under scenarios of future climate and fire. Global Change Biology. [DOI](https://doi.org/10.1111/gcb.15726)
+
+<!-- -->
+
+-   <strong>Miaojun Ma, Scott L Collins, Zak Ratajczak, and Guozhen Du</strong> · Soil Seed Banks, Alternative Stable State Theory, and Ecosystem Resilience. BioScience. [DOI](https://doi.org/10.1093/biosci/biab011)
+
+<!-- -->
+
+-   <strong>Scott L. Collins, Jesse B. Nippert, John M. Blair, John M. Briggs, Pamela Blackmore, and Zak Ratajczak</strong> · Fire frequency, state change and hysteresis in tallgrass prairie. Ecology Letters. [DOI](https://doi.org/10.1111/ele.13676)
+
+## 2020
+
+-   <strong><sup>**</sup>Katharina Albrich, Werner Rammer, Monica G. Turner, Zak Ratajczak, Kristin H. Braziunas, Winslow D. Hansen, and Rupert Seidl</strong> · Simulating forest resilience: A review. Global Ecology and Biogeography. [DOI](https://doi.org/10.1111/geb.13197)
+
+<!-- -->
+
+-   <strong>Monica G. Turner, W. John Calder, Graeme S. Cumming, Terry P. Hughes, Anke Jentsch, Shannon L. LaDeau, Timothy M. Lenton, Bryan N. Shuman, Merritt R. Turetsky, Zak Ratajczak, John W. Williams, A. Park Williams, and Stephen R. Carpenter</strong> · Climate change, ecosystems and abrupt change: science priorities. Philosophical Transactions of the Royal Society B: Biological Sciences. [DOI](https://doi.org/10.1098/rstb.2019.0105)
+
+## 2019
+
+-   <strong>David B. McWethy, Tania Schoennagel, Philip E. Higuera, Meg Krawchuk, Brian J. Harvey, Elizabeth C. Metcalf, Courtney Schultz, Carol Miller, Alexander L. Metcalf, Brian Buma, Arika Virapongse, Judith C. Kulig, Richard C. Stedman, Zak Ratajczak, Cara R. Nelson, and Crystal Kolden</strong> · Rethinking resilience to wildfire. Nature Sustainability. [DOI](https://doi.org/10.1038/s41893-019-0353-8)
+
+<!-- -->
+
+-   <strong>Zak Ratajczak, Amber C. Churchill, Laura M. Ladwig, Jeff H. Taylor, and Scott L. Collins</strong> · The combined effects of an extreme heatwave and wildfire on tallgrass prairie vegetation. Journal of Vegetation Science. [DOI](https://doi.org/10.1111/jvs.12750)
+
+<!-- -->
+
+-   <strong><sup>**</sup>Ning Chen, Zak Ratajczak, and Kailiang Yu</strong> · A dryland re-vegetation in northern China: Success or failure? Quick transitions or long lags? Ecosphere. [DOI](https://doi.org/10.1002/ecs2.2678)
+
+<!-- -->
+
+-   <strong>Philip E Higuera, Alexander L Metcalf, Carol Miller, Brian Buma, David B McWethy, Elizabeth C Metcalf, Zak Ratajczak, Cara R Nelson, Brian C Chaffin, Richard C Stedman, Sarah McCaffrey, Tania Schoennagel, Brian J Harvey, Sharon M Hood, Courtney A Schultz, Anne E Black, David Campbell, Julia H Haggerty, Robert E Keane, Meg A Krawchuk, Judith C Kulig, Rebekah Rafferty, and Arika Virapongse</strong> · Integrating Subjective and Objective Dimensions of Resilience in Fire-Prone Landscapes. BioScience. [DOI](https://doi.org/10.1093/biosci/biz030)
+
+<!-- -->
+
+-   <strong>Zak Ratajczak, and Laura M. Ladwig</strong> · Will climate change push grasslands past critical thresholds? Grasslands and Climate Change. [DOI](https://doi.org/10.1017/9781108163941.008)
+
+<!-- -->
+
+-   <strong>M. Allison Stegner, Zak Ratajczak, Stephen R. Carpenter, and John W. Williams</strong> · Inferring critical transitions in paleoecological time series with irregular sampling and variable time-averaging. Quaternary Science Reviews. [DOI](https://doi.org/10.1016/j.quascirev.2019.01.009)
+
+## 2018
+
+-   <strong>Zak Ratajczak, Stephen R. Carpenter, Anthony R. Ives, Christopher J. Kucharik, Tanjona Ramiadantsoa, M. Allison Stegner, John W. Williams, Jien Zhang, and Monica G. Turner</strong> · Abrupt Change in Ecological Systems: Inference and Diagnosis. Trends in Ecology & Evolution. [DOI](https://doi.org/10.1016/j.tree.2018.04.013)
+
+## 2017
+
+-   <strong><sup>**</sup>Jesse E. D. Miller, Ellen I. Damschen, Zak Ratajczak, and Mutlu Özdoğan</strong> · Holding the line: three decades of prescribed fires halt but do not reverse woody encroachment in grasslands. Landscape Ecology. [DOI](https://doi.org/10.1007/s10980-017-0569-9)
+
+<!-- -->
+
+-   <strong>Zak Ratajczak, Paolo D’Odorico, and Kailiang Yu</strong> · The Enemy of My Enemy Hypothesis: Why Coexisting with Grasses May Be an Adaptive Strategy for Savanna Trees. Ecosystems. [DOI](https://doi.org/10.1007/s10021-017-0110-7)
+
+<!-- -->
+
+-   <strong>N. A. Brunsell, E. S. Van Vleck, M. Nosshi, Z. Ratajczak, and J. B. Nippert</strong> · Assessing the Roles of Fire Frequency and Precipitation in Determining Woody Plant Expansion in Central U.S. Grasslands. Journal of Geophysical Research: Biogeosciences. [DOI](https://doi.org/10.1002/2017JG004046)
+
+<!-- -->
+
+-   <strong>Zak Ratajczak, Paolo D&#x27;Odorico, Scott L. Collins, Brandon T. Bestelmeyer, Forest I. Isbell, and Jesse B. Nippert</strong> · The interactive effects of press/pulse intensity and duration on regime shifts at multiple scales. Ecological Monographs. [DOI](https://doi.org/10.1002/ecm.1249)
+
+<!-- -->
+
+-   <strong>David Seekell, Joel Carr, Jampel Dell’Angelo, Paolo D’Odorico, Marianela Fader, Jessica Gephart, Matti Kummu, Nicholas Magliocca, Miina Porkka, Michael Puma, Zak Ratajczak, Maria Cristina Rulli, Samir Suweis, and Alessandro Tavoni</strong> · Resilience in the global food system. Environmental Research Letters. [DOI](https://doi.org/10.1088/1748-9326/aa5730)
+
+<!-- -->
+
+-   <strong><sup>**</sup>Guanghua Jing, Wei Li, Kailiang Yu, Zak Ratajczak, Robert L. Kallenbach, and Jimin Cheng</strong> · Effects of fertilization, burning, and grazing on plant community in the long-term fenced grasslands. Plant, Soil and Environment. [DOI](https://doi.org/10.17221/64/2017-pse)
+
+<!-- -->
+
+-   <strong>Zak Ratajczak, Paolo D&#x27;Odorico, Jesse B. Nippert, Scott L. Collins, Nathaniel A. Brunsell, and Sujith Ravi</strong> · Changes in spatial variance during a grassland to shrubland state transition. Journal of Ecology. [DOI](https://doi.org/10.1111/1365-2745.12696)
+
+## 2016
+
+-   <strong>Anne E. Klodd, Jesse B. Nippert, Zak Ratajczak, Hazel Waring, and Gareth K. Phoenix</strong> · Tight coupling of leaf area index to canopy nitrogen and phosphorus across heterogeneous tallgrass prairie communities. Oecologia. [DOI](https://doi.org/10.1007/s00442-016-3713-3)
+
+<!-- -->
+
+-   <strong>Philippe Marchand, Joel A Carr, Jampel Dell’Angelo, Marianela Fader, Jessica A Gephart, Matti Kummu, Nicholas R Magliocca, Miina Porkka, Michael J Puma, Zak Ratajczak, Maria Cristina Rulli, David A Seekell, Samir Suweis, Alessandro Tavoni, and Paolo D’Odorico</strong> · Reserves and trade jointly determine exposure to food supply shocks. Environmental Research Letters. [DOI](https://doi.org/10.1088/1748-9326/11/9/095009)
+
+<!-- -->
+
+-   <strong><sup>**</sup>Honglin Li, Kailiang Yu, Zak Ratajczak, Jesse B. Nippert, Dorjeeh Tondrob, Danghui Xu, Wei Li, and Guozhen Du</strong> · When variability outperforms the mean: trait plasticity predicts plant cover and biomass in an alpine wetland. Plant and Soil. [DOI](https://doi.org/10.1007/s11104-016-2898-x)
+
+<!-- -->
+
+-   <strong>Marianela Fader, Maria Cristina Rulli, Joel Carr, Jampel Dell’Angelo, Paolo D’Odorico, Jessica A Gephart, Matti Kummu, Nicholas Magliocca, Miina Porkka, Christina Prell, Michael J Puma, Zak Ratajczak, David A Seekell, Samir Suweis, and Alessandro Tavoni</strong> · Past and present biophysical redundancy of countries as a buffer to changes in food supply. Environmental Research Letters. [DOI](https://doi.org/10.1088/1748-9326/11/5/055008)
+
+<!-- -->
+
+-   <strong>Zak Ratajczak, John M. Briggs, Doug G. Goodin, Lei Luo, Rhett L. Mohler, Jesse B. Nippert, and Brian Obermeyer</strong> · Assessing the Potential for Transitions from Tallgrass Prairie to Woodlands: Are We Operating Beyond Critical Fire Thresholds? Rangeland Ecology & Management. [DOI](https://doi.org/10.1016/j.rama.2016.03.004)
+
+<!-- -->
+
+-   <strong>Laura M. Ladwig, Zak R. Ratajczak, Troy W. Ocheltree, Katya A. Hafich, Amber C. Churchill, Sarah J. K. Frey, Colin B. Fuss, Clare E. Kazanski, Juan D. Muñoz, Matthew D. Petrie, Andrew B. Reinmann, and Jane G. Smith</strong> · Beyond arctic and alpine: the influence of winter climate on temperate ecosystems. Ecology. [DOI](https://doi.org/10.1890/15-0153.1)
+
+## 2014
+
+-   <strong>Zak Ratajczak, Jesse B. Nippert, John M. Briggs, and John M. Blair</strong> · Fire dynamics distinguish grasslands, shrublands and woodlands as alternative attractors in the Central Great Plains of North America. Journal of Ecology. [DOI](https://doi.org/10.1111/1365-2745.12311)
+
+<!-- -->
+
+-   <strong>Zak Ratajczak, Jesse B. Nippert, and Troy W. Ocheltree</strong> · Abrupt transition of mesic grassland to shrubland: evidence for thresholds, alternative attractors, and regime shifts. Ecology. [DOI](https://doi.org/10.1890/13-1369.1)
+
+## 2013
+
+-   <strong>Jesse B. Nippert, Troy W. Ocheltree, Graciela L. Orozco, Zak Ratajczak, Bohua Ling, and Adam M. Skibbe</strong> · Evidence of Physiological Decoupling from Grassland Ecosystem Drivers by an Encroaching Woody Shrub. PLoS ONE. [DOI](https://doi.org/10.1371/journal.pone.0081630)
+
+## 2012
+
+-   <strong>Zak Ratajczak, and Jesse B. Nippert</strong> · Comment on "Global Resilience of Tropical Forest and Savanna to Critical Transitions". Science. [DOI](https://doi.org/10.1126/science.1219346)
+
+<!-- -->
+
+-   <strong>Zakary Ratajczak, Jesse B. Nippert, and Scott L. Collins</strong> · Woody encroachment decreases diversity across North American grasslands and savannas. Ecology. [DOI](https://doi.org/10.1890/11-1199.1)
+
+## 2011
+
+-   <strong>Zak Ratajczak, Jesse B. Nippert, Jeffrey C. Hartman, and Troy W. Ocheltree</strong> · Positive feedbacks amplify rates of woody encroachment in mesic tallgrass prairie. Ecosphere 2: 121. [DOI](https://doi.org/10.1890/es11-00212.1)
+
+[Back to top](publications.html)
+
+</div>

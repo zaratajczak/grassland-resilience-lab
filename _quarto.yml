@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+  - '*.qmd'
+  resources:
+  - images/
+  - files/
+  - styles.css
+  - gallery.js
+  - map/
+website:
+  title: Grassland Resilience Lab
+  site-url: https://resil-lab.com
+  search: false
+format:
+  html:
+    theme: none
+    include-in-header: includes/encoding.html
+    template: template.html
+    include-before-body: includes/navigation.html
+    include-after-body: includes/footer.html
+    toc: false
+    section-divs: false
+    anchor-sections: false
+    link-external-newwindow: false
+    html-math-method: plain
+lang: en

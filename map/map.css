@@ -1,0 +1,28 @@
+.map-toolbar{display:flex;flex-wrap:wrap;align-items:center;gap:14px 24px;background:var(--panel,#f3f3ec);padding:18px;border:1px solid #ccd1c8;border-radius:10px 10px 0 0;margin-top:26px}
+.map-toolbar label{display:flex;align-items:center;gap:8px;font-size:.9rem;cursor:pointer}
+.map-toolbar input[type=checkbox]{width:17px;height:17px;accent-color:#315d50}
+.map-toolbar .map-opacity{flex-wrap:wrap;flex:1 1 230px}
+.map-toolbar input[type=range]{width:140px;accent-color:#315d50}
+.map-toolbar output{min-width:36px;font-variant-numeric:tabular-nums}
+.map-toolbar button{background:#fff;color:#233b32;border:1px solid #8a9b90;border-radius:5px;padding:8px 12px;font:inherit;font-size:.85rem;cursor:pointer}
+.map-toolbar button:hover{background:#e9eee9}
+#konza-map{height:620px;width:100%;background:#e5e7e1;border:1px solid #aab4ab;isolation:isolate;font-family:Arial,sans-serif}
+#konza-map img{max-width:none!important;max-height:none!important;border-radius:0;box-shadow:none}
+#konza-map .categorical-raster{image-rendering:pixelated}
+#konza-map .leaflet-control a{color:#222}
+#konza-map .leaflet-control-attribution{font-size:10px;line-height:1.5}
+.map-legend{display:flex;flex-wrap:wrap;gap:12px 22px;padding:18px;background:#f5f5f0;color:#303735;border:1px solid #ccd1c8;border-top:0;border-radius:0 0 10px 10px;font-size:.87rem}
+.map-legend strong{flex-basis:100%}
+.map-legend span{display:flex;align-items:center;gap:7px}
+.map-legend i{width:17px;height:17px;border:1px solid #9a9d97;display:inline-block}
+.map-hint{font-size:.85rem;line-height:1.6;opacity:.85}
+.map-loading{padding:30px}
+@media(max-width:650px){#konza-map{height:510px}.map-toolbar{gap:12px}.map-toolbar label{font-size:.82rem}.map-toolbar .map-opacity{flex-basis:100%}}
+
+main:has(> #data) > .quarto-title-block{display:block;background:transparent;color:inherit;padding:0;margin:0}
+
+.map-legend i.grazer-line{width:28px;height:0;border:0;border-top:3px solid #8d238b;background:none}.map-legend i.cattle-line{border-top:3px dashed #1459bd}#konza-map .leaflet-tooltip{white-space:normal;max-width:290px;font-size:13px}#konza-map .leaflet-popup-content p{font-size:12px;margin:8px 0 0}
+
+#konza-map .leaflet-tooltip{width:250px;max-width:250px;line-height:1.5}
+
+.map-toolbar+.map-legend{margin:0;padding:14px 18px;border:1px solid #ccd1c8;border-top:0;background:var(--panel,#f3f3ec);border-radius:0}

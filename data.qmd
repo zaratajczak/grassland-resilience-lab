@@ -1,0 +1,58 @@
+---
+title: "Data"
+map-page: true
+page-id: data
+page-class: page standard-page
+---
+
+<div>
+
+```{=html}
+<h1>Data</h1>
+```
+
+This page is currently in development. Please feel free to alert us of any issues by emailing Zak at [zarata@ksu.edu](mailto:zarata@ksu.edu).
+
+Explore grassland vegetation and watershed boundaries at Konza Prairie. The landcover map below shows vegetation at Konza Prairie as of 2020 (see Noble and Ratajczak 2025 for details). Pan and zoom to see the landscape, hover over a watershed to see its long-term fire interval (or tap for details). Layers can be turned on and off, but most users will probably find having all layers on to be useful.
+
+```{=html}
+<div class="map-toolbar" aria-label="Map display controls">
+  <label><input id="map-watersheds" type="checkbox" checked> Watershed boundaries</label>
+  <label><input id="map-grazing" type="checkbox" checked> Grazing perimeters</label>
+  <label><input id="map-landcover" type="checkbox" checked> Land cover (2020)</label>
+  <label><input id="map-hillshade" type="checkbox" checked> Vegetation texture</label>
+  <label class="map-opacity" for="map-transparency">Land-cover transparency <output id="map-transparency-value" for="map-transparency">25%</output><input id="map-transparency" type="range" min="0" max="100" value="25" step="5"></label>
+  <button type="button" id="map-reset">Reset view</button>
+</div>
+<div class="map-legend" aria-label="Land-cover legend">
+  <strong>Grazing areas</strong>
+  <span><i class="grazer-line bison-line"></i>Bison</span>
+  <span><i class="grazer-line cattle-line"></i>Research cattle</span>
+  <strong>Land cover · 2020</strong>
+  <span><i style="background:#329b99"></i>Grassland / herbaceous</span>
+  <span><i style="background:#ffffff"></i>Shrubs</span>
+  <span><i style="background:#414548"></i>Deciduous trees</span>
+  <span><i style="background:#e58b32"></i>Junipers / evergreen trees</span>
+  <span><i style="background:#f2cbd8"></i>Other</span>
+</div>
+<div id="konza-map" role="region" aria-label="Interactive map of Konza Prairie land cover and watersheds" tabindex="0"><p class="map-loading">Loading map…</p></div>
+<p class="map-hint">Drag to pan; use + and − to zoom, or pinch on a touch screen. Scroll-wheel zoom is off so you can scroll the page comfortably.</p>
+```
+
+## About these layers
+
+**Watershed boundaries.** Outlines come from the GIS032 watershed dataset. Hover to see the watershed name and long-term fire interval; click or tap for grazing information and treatment notes. Intervals describe the treatment designation in GIS032, not a measured average or a verified current burn schedule. Seasonal-burn treatments are labeled by season; areas without an assigned interval say “Not specified.”
+
+**Grazing perimeters.** Areas within the solid purple perimeter are grazed by bison; areas within the dashed blue perimeters are grazed by cattle.
+
+Fire-treatment information follows the [Konza research-unit key](https://keep.konza.k-state.edu/handbookdocuments/Map%20of%20Konza%20Research%20Units.pdf). Treatment histories can change; consult the [Konza burn history](https://lter.konza.ksu.edu/research/burn-history.html) for dated records.
+
+**Land cover.** The 2020, 2 m classification is from Noble and Ratajczak (2025), *Remote Sensing*. The original classes are herbaceous vegetation, deciduous trees, evergreen trees, shrubs, and other cover. “Other” includes water, gravel roads, and buildings. [Read the publication](https://www.mdpi.com/2072-4292/17/13/2224).
+
+**Vegetation texture.** The underlying `veg_vis.tif` layer is a hillshade derived from LiDAR canopy height. It provides visual texture rather than a quantitative canopy-height scale.
+
+## Source data
+
+[Browse the datasets and README on Dropbox](https://www.dropbox.com/scl/fo/84uj27bie8pivzmqhqx89/AD3NT47o5KUBJKfem5fWBrY?rlkey=23ctrunludfncie8yevdfc9ob&dl=0).
+
+</div>

@@ -1,0 +1,54 @@
+---
+title: "Education and outreach"
+page-id: outreach
+page-class: page standard-page
+---
+
+<div>
+
+# Education and Outreach
+
+Outreach is a central part of the lab’s work. We spend time leading field tours, developing classroom materials, meeting with land managers, and helping journalists and filmmakers explain prairie research. These exchanges also shape our research.
+
+For instance, the Konza Environmental Education Program (KEEP), led by Jill Haukos and High School Teachers, has created a [high-school biology module](https://keep.konza.k-state.edu/education/Highschool_Storyline.html){target="_blank" rel="noopener noreferrer"} that currently reaches around 1,000 students per year. Students use the prairie as a lens to learn core biological principles and their home ecoregion at the same time. Our lab has contributed filmed interviews, maps, and graphs to a six-week classroom module.
+
+## Teaching
+
+Our teaching connects ecological concepts with questions students can investigate using field observations, experiments, and data. At Konza Prairie, students can examine how plant communities respond to fire, grazing, and climate, drawing on their own observations and long-term records. Across courses, we emphasize developing questions, comparing explanations, and interpreting evidence.
+
+-   Ecology (BIOL 529): every fall.
+-   Community Ecology (BIOL 857): fall of even-numbered years.
+-   Environmental Resilience (BIOL 858): fall of odd-numbered years.
+
+Students interested in an independent study or a related research project are welcome to get in touch.
+
+## Research in the news
+
+Selected coverage of our research and collaborations.
+
+### Woody encroachment in the Anthropocene
+
+-   [In the fight to save prairies, some Great Plains ranchers embrace a new landscape -- with goats](https://www.kmuw.org/agriculture/2026-06-29/in-the-fight-to-save-prairies-some-great-plains-ranchers-embrace-a-new-landscape-with-goats) --- Celia Llopis-Jepsen, Harvest Public Media / KMUW, June 29, 2026. Jesse Nippert and colleagues discuss options for prairies where trees and shrubs are already established.
+
+-   [Kansas Prairie Streams Are Getting Choked, Maybe for Good](https://eos.org/articles/kansas-prairie-streams-are-getting-choked-maybe-for-good) --- Kimberly Hatfield, Eos, May 6, 2024. Coverage of woody encroachment and the challenges of restoring prairie streams.
+-   [Ecologists advise an increase in prescribed grassland burning to maintain ecosystem, livelihood](https://phys.org/news/2016-05-ecologists-grassland-ecosystem-livelihood.html) --- Kansas State University / Phys.org, May 31, 2016. Research on fire frequency and the risk of transition from tallgrass prairie to woodland.
+
+### Mapping and landscape change
+
+-   [Scientists put AI to work in the fight to save North American prairies](https://www.iowapublicradio.org/harvest-public-media/2025-09-02/kansas-scientists-ai-prairie) --- Celia Llopis-Jepsen, Kansas News Service / Harvest Public Media, September 2, 2025; hosted by Iowa Public Radio. A report on our vegetation mapping and its conservation applications.
+
+### Bison and prairie biodiversity
+
+-   [Why wallow? K-State researchers study the ins and outs of bison wallows](https://themercury.com/news/why-wallow-k-state-researchers-study-the-ins-and-outs-of-bison-wallows/article_f065239c-37af-5b1f-948b-a70d7e567a87.html) --- The Manhattan Mercury.
+
+-   [K-State biologists study American bison and prairie home at Konza](https://www.k-state.edu/news/seek/fall-2024/konza-prairie-bison-research/index.html) --- K-State Seek, Fall 2024. A broader feature covering bison, drought experiments, and wallow habitats.
+-   [Climate change threatens the Great Plains, but bison may hold a key to resilience](https://www.kcur.org/news/2022-11-16/climate-change-threatens-the-great-plains-but-bison-may-hold-a-key-to-resilience) --- Celia Llopis-Jepsen, KCUR / Kansas News Service, November 16, 2022. Reporting on bison, plant diversity, and drought resilience.
+-   [Reintroducing bison to grasslands increases plant diversity, drought resilience, study finds](https://www.nsf.gov/news/reintroducing-bison-grasslands-increases-plant-diversity) --- U.S. National Science Foundation, September 19, 2022. An institutional summary of the long-term Konza experiment.
+-   [Bison are bringing biodiversity back to Kansas prairie land](https://www.popsci.com/environment/bison-reintroduction-prairie-grasslands/) --- Miyo McGinn, Popular Science, September 2, 2022. Coverage of the bison reintroduction study.
+-   [How to help a prairie: bring on the hungry bison](https://www.nature.com/articles/d41586-022-02332-4) --- Nature, 2022. A research highlight on the plant-diversity findings.
+-   [Where the buffalo roam, endangered prairies thrive](https://www.nationalgeographic.com/animals/article/where-buffalo-roam-endangered-prairies-thrive) --- Jason Bittel, National Geographic, August 29, 2022. Coverage of the long-term bison experiment and grassland conservation.
+-   [Roaming bison have doubled plant diversity in prairie, study indicates](https://www.foxweather.com/watch/play-5e44c833700051c) --- FOX Weather. Video interview with Zak about the bison study.
+
+[Back to top](outreach.html)
+
+</div>
